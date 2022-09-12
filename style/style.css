@@ -1,0 +1,14 @@
+.container {
+    margin: 0 auto;
+    width: 80%;
+}
+a {
+    text-decoration: none;
+}
+ul li {
+    list-style: none;
+    padding-bottom: 20px;
+}
+h1 {
+    text-align: center;
+}
